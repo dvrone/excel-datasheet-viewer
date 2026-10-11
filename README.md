@@ -31,6 +31,10 @@ excel-datasheet-viewer/
 └── test.xlsx
 ```
 
+## Screenshot
+
+![Excel DataSheet Viewer](demo/v1.0.0/screenshot.png)
+
 ## Installation
 
 Clone the repository:
